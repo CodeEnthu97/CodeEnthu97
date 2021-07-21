@@ -1,4 +1,5 @@
-<h1 align="center">Hi , 👋 I'm Ajay !</h1>
+<a href="#"><img width="100%" height="auto" src="https://drive.google.com/file/d/1l2yd1VykQovluUH7tGgICLQbosVFIaXa/view?usp=sharing" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay!</h1>
 <h3 align="center">I'm passionate about programming and want to give solutions of real life problems.I'm open to learn any new technology which will help to grow my circle of knowledge....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeenthu97&label=Profile%20views&color=0e75b6&style=flat" alt="codeenthu97" /> </p>
@@ -31,8 +32,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeenthu97&show_icons=true&locale=en&layout=compact&theme=merko" alt="codeenthu97" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=codeenthu97&show_icons=true&locale=en&theme=radical" alt="codeenthu97" /></p>
+## 📊 My Github Stats
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Ajay Das's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CodeEnthu97&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Ajay Das's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeEnthu97&langs_count=8&count_private=true&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+
+ 
+
 
 
 
