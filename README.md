@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 I'm Ajay</h1>
+<h1 align="center">Hi , 👋 I'm Ajay !</h1>
 <h3 align="center">I'm passionate about programming and want to give solutions of real life problems.I'm open to learn any new technology which will help to grow my circle of knowledge....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeenthu97&label=Profile%20views&color=0e75b6&style=flat" alt="codeenthu97" /> </p>
 
-- 🔭 I’m currently working on **Fuel price tracker**
+- 🔭 I’m currently working on **Something Cool**
 
 - 🌱 I’m currently learning **🐱‍💻Html|🐱‍👓Css|🐱‍🐉Javascript**
 
