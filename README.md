@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay!</h1>
 <h3 align="center">I'm passionate about programming and want to give solutions of real life problems.I'm open to learn any new technology which will help to grow my circle of knowledge....</h3>
 
@@ -26,9 +25,6 @@
 <a href="https://linkedin.com/in/ajay-das97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-das97" height="30" width="40" /></a>
 <a href="https://fb.com/heroism007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heroism007" height="30" width="40" /></a>
 <a href="https://instagram.com/dasajay99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dasajay99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajayd9952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajayd9952" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/heroism420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heroism420" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ajayd9952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajayd9952" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
