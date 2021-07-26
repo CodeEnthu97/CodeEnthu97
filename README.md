@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ajayd9952@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ErYOBwYKC1fP-ysvtkT5hME-ls8iZ2JR/view?usp=sharing](https://drive.google.com/file/d/1ErYOBwYKC1fP-ysvtkT5hME-ls8iZ2JR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AQUdFJvyLV_-NgjrHmC6_PXEODsq_xrJ/view?usp=sharing](https://drive.google.com/file/d/1AQUdFJvyLV_-NgjrHmC6_PXEODsq_xrJ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am debugging myself daily🤔**
 
