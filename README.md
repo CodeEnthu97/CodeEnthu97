@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Something Cool**
 
-- 🌱 I’m currently learning **🐱‍💻Html|🐱‍👓Css|🐱‍🐉Javascript**
+[//]: # - 🌱 I’m currently learning **🐱‍💻Html|🐱‍👓Css|🐱‍🐉Javascript**
 
 - 🐱‍👤 2021 Goals **Contribute to open source projects**
 
