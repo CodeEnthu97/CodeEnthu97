@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AQUdFJvyLV_-NgjrHmC6_PXEODsq_xrJ/view?usp=sharing](https://drive.google.com/file/d/1AQUdFJvyLV_-NgjrHmC6_PXEODsq_xrJ/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am debugging myself daily🤔**
+- ⚡ Fun fact **Compiling please wait...🐱‍💻💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
